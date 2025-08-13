@@ -2,6 +2,8 @@
 
 基于微信OCR引擎的桌面应用程序，能够高精度提取图片中的文字。该工具提供了直观的界面，支持多种OCR任务，包括屏幕截图、图片旋转和批量处理等便捷功能。
 
+感谢：[wechat_ocr](https://github.com/kanadeblisst00/wechat_ocr?tab=readme-ov-file)
+
 ## 主要功能
 
 - **截屏OCR**：捕获屏幕任意区域并立即提取文字
@@ -94,7 +96,17 @@
 - 使用截屏OCR时，应用程序窗口将临时隐藏以捕获屏幕。
 - 批量处理对类似类型的图片效果最佳。
 
+## 运行结果
 
+![result](./static/one.png)
+
+![result](./static/two.png)
+
+![result](./static/three.png)
+
+# 赞赏
+
+![result](./static/four.png)
 
 ## 致谢
 
