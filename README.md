@@ -31,7 +31,6 @@
 1. 克隆仓库：
    ```
    git https://github.com/shiyaaini/wechat_ocr_ui
-   cd weixin_ocr
    ```
 
 2. 安装所需包：
